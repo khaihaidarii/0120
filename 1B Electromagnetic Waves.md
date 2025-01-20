@@ -4,9 +4,9 @@
 
 Electromagnetic theory - Maxwell's crowning achievement, predicts that accelerating charges should generate waves - waves made up of changing electric and magnetic fields. The changing electric field causes a changing magnetic field, which in turn generates a changing electric field - and so on. This type of wave doesn't need a medium to propagate, unlike other mechanical waves such as sound, that need a medium to propagate. These waves travel through a vacuum at the speed of light, c: $3.00 \times 10^8ms^{-1}$. The electric and magnetic fields are always at right angles to each other and the waves are also always transverse because the electric and magnetic fields are always perpendicular to the direction of travel of the waves. 
 
-![[Pasted image 20250120120550.png|500]] ^0ec70c
+!![](https://github.com/khaihaidarii/0120/blob/main/Pasted%20image%2020250120120550.png)
 
-The wavelength ($\lambda$) as shown in [[1B - Electromagnetic Waves#^0ec70c|Figure 1B - 2]] is the same for both the electric and the magnetic fields. All electro magnetic waves obey the wave equation ($v = f\lambda$) , and have the same speed in a vacuum, equal to $c$ - the speed of light. In other media EM waves travel more slowly ; for example, the speed of green light in water is $2.25 \times 10^8 ms^{-1}$.
+The wavelength ($\lambda$) as shown in Figure 1B - 2 is the same for both the electric and the magnetic fields. All electro magnetic waves obey the wave equation ($v = f\lambda$) , and have the same speed in a vacuum, equal to $c$ - the speed of light. In other media EM waves travel more slowly ; for example, the speed of green light in water is $2.25 \times 10^8 ms^{-1}$.
 
 #### The wave equation for Electromagnetic Waves ^1de049
 $$
@@ -30,7 +30,7 @@ Where:
 
 Maxwell predicted that there could be a whole family of electromagnetic waves with a range of wavelengths and frequencies. He was right. We now call this the electromagnetic spectrum.
 
-![[Pasted image 20250120125341.png| 500]] ^b900dd
+![](https://github.com/khaihaidarii/0120/blob/main/Pasted%20image%2020250120125341.png)
 
 [[1B - Electromagnetic Waves#^b900dd|Figure 1B - 3]] shows the relation between wavelength and frequency for electromagnetic waves. The speed of EM waves is constant - the speed of light - therefore increasing the frequency decreases the wavelength. 
 
@@ -112,7 +112,7 @@ The EM spectrum is broken up into approximate regions based on wavelength. The l
 
 Almost all of the energy that the Earth receives from the Sun arrives as electromagnetic radiation. The graph below shows the distribution of radiation intensity by wavelength along with the percentage of total energy emitted in the ultraviolet, visible light, near infrared, far infrared and other regions of the solar spectrum.
 
-![[Pasted image 20250120134519.png|500]]
+![](https://github.com/khaihaidarii/0120/blob/main/Pasted%20image%2020250120134519.png)
 *Figure 1B - 4 Idealised solar spectrum*
 
 As the graph shows, majority of the electromagnetic radiation that Earth receives is infrared (48%) and visible light (44%), with an additional 7% from ultraviolet, leaving a tiny 1% from other wavelengths. The main contribution to warming the planet comes from infrared radiation. 
