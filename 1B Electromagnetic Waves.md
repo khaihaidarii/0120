@@ -1,14 +1,3 @@
----
-Status: cooked
-created: 2025-01-20
-tags:
-  - 2K25
-  - physics
-  - light
-  - maxwell
-  - electromagnetism
----
-
 # 1B - Electromagnetic Waves
 
 ### What is light?
